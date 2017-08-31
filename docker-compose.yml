@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  thoughtfactory:
+    image: thoughtfactory
+    build:
+      context: ./Thoughtfactory
+      dockerfile: Dockerfile

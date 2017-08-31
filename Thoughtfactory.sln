@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thoughtfactory", "Thoughtfactory\Thoughtfactory.csproj", "{22F7B06B-3A42-4C8C-9E13-28A03330CF82}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{A434B6A8-DBE8-4861-A307-EA922B3AA735}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22F7B06B-3A42-4C8C-9E13-28A03330CF82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22F7B06B-3A42-4C8C-9E13-28A03330CF82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22F7B06B-3A42-4C8C-9E13-28A03330CF82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22F7B06B-3A42-4C8C-9E13-28A03330CF82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A434B6A8-DBE8-4861-A307-EA922B3AA735}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A434B6A8-DBE8-4861-A307-EA922B3AA735}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A434B6A8-DBE8-4861-A307-EA922B3AA735}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A434B6A8-DBE8-4861-A307-EA922B3AA735}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44F7B0AA-4A08-463B-B5DB-3C3E2B154088}
+	EndGlobalSection
+EndGlobal
